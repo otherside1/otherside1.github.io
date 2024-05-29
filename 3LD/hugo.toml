@@ -9,13 +9,13 @@ hostname = "gohugo.io"
 sitedescription = 'Your website description'
 
   [params.author]
-    name = "Mr Hugo"
+    name = "Pavel Paliulis"
     email = "hugo@example.com"
 [menu]
   [[menu.header]]
     name = "Pirmaspuslapis"
     weight = 1
-    url = "/posts"
+    url = "/posts/pirmaspuslapis"
 
   [[menu.header]]
     name = "Paveiksliukas"
