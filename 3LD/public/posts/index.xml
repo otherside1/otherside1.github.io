@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 3LD</title>
+    <link>https://otherside1.git.io/posts/</link>
+    <description>Recent content in Posts on 3LD</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>hugo@example.com (Mr Hugo)</managingEditor>
+    <webMaster>hugo@example.com (Mr Hugo)</webMaster>
+    <lastBuildDate>Thu, 30 May 2024 00:46:46 +0300</lastBuildDate>
+    <atom:link href="https://otherside1.git.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pirmaspuslapis</title>
+      <link>https://otherside1.git.io/posts/pirmaspuslapis/</link>
+      <pubDate>Thu, 30 May 2024 00:46:46 +0300</pubDate><author>hugo@example.com (Mr Hugo)</author>
+      <guid>https://otherside1.git.io/posts/pirmaspuslapis/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tristique nunc eu lectus ultricies vestibulum. Ut vestibulum ac ipsum iaculis maximus. Fusce dictum purus eget justo interdum mattis. Nunc imperdiet bibendum velit, sed volutpat sem accumsan sed. Vestibulum placerat scelerisque placerat. Nullam turpis mi, efficitur in varius a, volutpat id arcu. Fusce in nunc odio. Suspendisse hendrerit pharetra leo, ac scelerisque leo.</description>
+    </item>
+  </channel>
+</rss>
