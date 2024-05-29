@@ -1,0 +1,24 @@
+theme = 'nightfall'
+baseURL = 'https://otherside1.git.io/'
+languageCode = 'en-us'
+title = '3LD'
+
+[params]
+user = "hello"
+hostname = "gohugo.io"
+sitedescription = 'Your website description'
+
+  [params.author]
+    name = "Mr Hugo"
+    email = "hugo@example.com"
+[menu]
+  [[menu.header]]
+    name = "Pirmaspuslapis"
+    weight = 1
+    url = "/posts"
+
+  [[menu.header]]
+    name = "Paveiksliukas"
+    weight = 2
+    url = "/posts/paveiksliukas/"
+

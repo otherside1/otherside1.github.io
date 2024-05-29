@@ -8,8 +8,22 @@
     <language>en-us</language>
     <managingEditor>hugo@example.com (Mr Hugo)</managingEditor>
     <webMaster>hugo@example.com (Mr Hugo)</webMaster>
-    <lastBuildDate>Thu, 30 May 2024 00:46:46 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 01:51:28 +0300</lastBuildDate>
     <atom:link href="https://otherside1.git.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paveiksliukas</title>
+      <link>https://otherside1.git.io/posts/paveiksliukas/</link>
+      <pubDate>Thu, 30 May 2024 01:51:28 +0300</pubDate><author>hugo@example.com (Mr Hugo)</author>
+      <guid>https://otherside1.git.io/posts/paveiksliukas/</guid>
+      <description>/forest.jpg&#xA;package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;Hello, World!&amp;#34;) } </description>
+    </item>
+    <item>
+      <title>Paveiksliukas</title>
+      <link>https://otherside1.git.io/posts/paveiksliukas/paveiksliukas/</link>
+      <pubDate>Thu, 30 May 2024 01:51:28 +0300</pubDate><author>hugo@example.com (Mr Hugo)</author>
+      <guid>https://otherside1.git.io/posts/paveiksliukas/paveiksliukas/</guid>
+      <description>C:\Users\otherside-\OneDrive\Desktop\Debesija_3ld\myhugo\antra\3LD\staticforest.jpg&#xA;package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;Hello, World!&amp;#34;) } </description>
+    </item>
     <item>
       <title>pirmaspuslapis</title>
       <link>https://otherside1.git.io/posts/pirmaspuslapis/</link>
