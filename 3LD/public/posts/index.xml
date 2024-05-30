@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 3LD</title>
-    <link>https://otherside1.git.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on 3LD</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>hugo@example.com (Pavel Paliulis)</managingEditor>
     <webMaster>hugo@example.com (Pavel Paliulis)</webMaster>
     <lastBuildDate>Thu, 30 May 2024 01:51:28 +0300</lastBuildDate>
-    <atom:link href="https://otherside1.git.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paveiksliukas</title>
-      <link>https://otherside1.git.io/posts/paveiksliukas/</link>
+      <link>http://localhost:1313/posts/paveiksliukas/</link>
       <pubDate>Thu, 30 May 2024 01:51:28 +0300</pubDate><author>hugo@example.com (Pavel Paliulis)</author>
-      <guid>https://otherside1.git.io/posts/paveiksliukas/</guid>
+      <guid>http://localhost:1313/posts/paveiksliukas/</guid>
       <description>&#xA;+++ title = &amp;#39;Paveiksliukas&amp;#39; date = 2024-05-30T01:51:28+03:00 draft = false +++ ![Forest Image](/forest.jpg) </description>
     </item>
     <item>
       <title>Paveiksliukas</title>
-      <link>https://otherside1.git.io/posts/paveiksliukas/paveiksliukas/</link>
+      <link>http://localhost:1313/posts/paveiksliukas/paveiksliukas/</link>
       <pubDate>Thu, 30 May 2024 01:51:28 +0300</pubDate><author>hugo@example.com (Pavel Paliulis)</author>
-      <guid>https://otherside1.git.io/posts/paveiksliukas/paveiksliukas/</guid>
+      <guid>http://localhost:1313/posts/paveiksliukas/paveiksliukas/</guid>
       <description>&#xA;package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;Hello, World!&amp;#34;) } </description>
     </item>
     <item>
       <title>pirmaspuslapis</title>
-      <link>https://otherside1.git.io/posts/pirmaspuslapis/pirmaspuslapis/</link>
+      <link>http://localhost:1313/posts/pirmaspuslapis/pirmaspuslapis/</link>
       <pubDate>Thu, 30 May 2024 00:46:46 +0300</pubDate><author>hugo@example.com (Pavel Paliulis)</author>
-      <guid>https://otherside1.git.io/posts/pirmaspuslapis/pirmaspuslapis/</guid>
+      <guid>http://localhost:1313/posts/pirmaspuslapis/pirmaspuslapis/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tristique nunc eu lectus ultricies vestibulum. Ut vestibulum ac ipsum iaculis maximus. Fusce dictum purus eget justo interdum mattis. Nunc imperdiet bibendum velit, sed volutpat sem accumsan sed. Vestibulum placerat scelerisque placerat. Nullam turpis mi, efficitur in varius a, volutpat id arcu. Fusce in nunc odio. Suspendisse hendrerit pharetra leo, ac scelerisque leo.</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://otherside1.git.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-05-30T01:51:28+03:00</lastmod>
   </url><url>
-    <loc>https://otherside1.git.io/posts/paveiksliukas/</loc>
+    <loc>http://localhost:1313/posts/paveiksliukas/</loc>
     <lastmod>2024-05-30T01:51:28+03:00</lastmod>
   </url><url>
-    <loc>https://otherside1.git.io/posts/paveiksliukas/paveiksliukas/</loc>
+    <loc>http://localhost:1313/posts/paveiksliukas/paveiksliukas/</loc>
     <lastmod>2024-05-30T01:51:28+03:00</lastmod>
   </url><url>
-    <loc>https://otherside1.git.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-05-30T01:51:28+03:00</lastmod>
   </url><url>
-    <loc>https://otherside1.git.io/posts/pirmaspuslapis/pirmaspuslapis/</loc>
+    <loc>http://localhost:1313/posts/pirmaspuslapis/pirmaspuslapis/</loc>
     <lastmod>2024-05-30T00:46:46+03:00</lastmod>
   </url><url>
-    <loc>https://otherside1.git.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://otherside1.git.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
